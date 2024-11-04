@@ -18,4 +18,5 @@ jobs:
         with:
          config_timezone: America/New_York
          template: terminal
+          base: header, metadata
           token: ${{ secrets.METRICS_TOKEN }}
