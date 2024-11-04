@@ -16,4 +16,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+         config_timezone: America/New_York
+         template: terminal
           token: ${{ secrets.METRICS_TOKEN }}
