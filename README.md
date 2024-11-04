@@ -34,4 +34,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![Metrics](https://metrics.lecoq.io/michiruneptune?template=terminal&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&fortune=1&16personalities=1&introduction=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction=false&introduction.title=true&16personalities=false&16personalities.url=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2F2644541ae3327&16personalities.sections=personality&16personalities.scores=true&fortune=false&config.timezone=America%2FNew_York)
+![Metrics](/github-metrics.svg)
+
+<!-- ![Metrics](https://metrics.lecoq.io/michiruneptune?template=terminal&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&fortune=1&16personalities=1&introduction=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction=false&introduction.title=true&16personalities=false&16personalities.url=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2F2644541ae3327&16personalities.sections=personality&16personalities.scores=true&fortune=false&config.timezone=America%2FNew_York) -->
