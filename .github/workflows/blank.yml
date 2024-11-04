@@ -27,7 +27,7 @@ jobs:
           # Options
           user: michiruneptune
           template: terminal
-          base: header
+          base: header, metadata
           config_timezone: America/New_York
           plugin_16personalities: yes
           plugin_16personalities_scores: yes
