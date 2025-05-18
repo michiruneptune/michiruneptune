@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: howdy [@] banshee [.] boo
 - 😄 Pronouns: she/they/it
 - ⚡ Fun fact: i liek turtles
+
+https://github.com/inttter/md-badges?tab=readme-ov-file
 -->
 
 ## Uses
