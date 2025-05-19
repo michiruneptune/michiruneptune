@@ -33,7 +33,7 @@ jobs:
           plugin_16personalities: yes
           plugin_16personalities_scores: yes
           plugin_16personalities_sections: personality
-          plugin_16personalities_url: https://www.16personalities.com/profiles/${{ secrets.PERSONALITIES_USER }}
+          plugin_16personalities_url: https://www.16personalities.com/profiles/${{ secrets.PERSONALITIES }}
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
