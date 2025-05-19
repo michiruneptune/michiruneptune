@@ -31,12 +31,6 @@ https://dilemmagx.github.io/shields-maker
 ## Learning
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#) [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#) [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,discord,bots,fediverse,github,githubactions,gmail,html,js,md,mastodon,notion,obsidian,stackoverflow,twitter,vscode,vscodium,windows" />
-  </a>
-</p>
-
 <!-- https://github.com/settings/tokens -->
 
 ![Metrics](/github-metrics.svg)
