@@ -1,4 +1,4 @@
-mooovin' 2 [source.tube]([https://source.tube]](https://source.tube/mermaid))
+mooovin' 2 [mermaid](https://source.tube/mermaid)
 
 <!-- ## Hi there 👋 
 
