@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 https://inttter.github.io/md-badges
 https://dilemmagx.github.io/shields-maker
+
+to-do description on forks: have barely touched, plan to
 -->
 
 ## Uses
