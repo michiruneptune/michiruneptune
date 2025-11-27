@@ -1,4 +1,4 @@
-mooovin' 2 [source tube](https://source.tube/mermaid) :3
+primarily using [source tube](https://source.tube/mermaid) for the foreseeable future :3 new and updated projects will be mirrored over there
 
 <!-- ## Hi there 👋 
 
